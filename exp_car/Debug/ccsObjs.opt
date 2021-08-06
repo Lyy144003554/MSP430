@@ -1,0 +1,1 @@
+"./main.obj" "./include/OLED.obj" "./include/motor.obj" "../lnk_msp430f5229.cmd" -llibmath.a -llibc.a 
